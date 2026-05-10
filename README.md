@@ -2,7 +2,7 @@
 
 ## Problem
 
-Health and safety issues at San José State University, such as overflowing garbage cans, litter, and hazardous public spaces, are visible on campus but often go unreported or receive low priority. An SJSU student who sees overflowing trash next to a crowded stairway while strolling around campus at night. The problem could lead to slipping hazards, pest attraction, or sanitary issues.
+Health and safety issues at San José State University, such as overflowing garbage cans, litter, and hazardous public spaces, are visible on campus but often go unreported or receive low priority. A specific person affected is an SJSU student who sees overflowing trash next to a crowded stairway while walking around campus at night. The problem could lead to slipping hazards, pest attraction, or sanitary issues.
 
 The information is available visually or in brief written reports, but it is not organized in a way that makes it easy for campus workers to comprehend the problem, its urgency, and the necessary course of action. Because it focuses on enhancing campus public health and safety response, this initiative is in line with SDG 3: Good Health and Well-Being.
 
