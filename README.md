@@ -24,8 +24,15 @@ Output: A structured report outlining the problem, risk factors, degree of urgen
 
 Who takes action: After reviewing the AI output, campus facilities employees or public health professionals determine what needs to be done, including planning a cleanup or conducting an investigation.
 
-The notebook contains screenshots of the prototype outputs.
+### Example Outputs
 
+![Input Image](trash.jpg)
+
+![Lab 3 Output - Analysis](lab3_output1.png)
+
+![Lab 3 Output - Urgency & Action](lab3_output2.png)
+
+![Lab 2 Output - Structured Data](lab2_output.png)
 ## Failure Case
 
 When the AI examined the image of the campus trash, one failure case emerged. Although overflowing trash and other sanitary hazards were appropriately identified by the AI, it also made assumptions about hazards that were not fully obvious in the image. This demonstrates that while the AI can identify clear visual issues, it may overgeneralize in the absence of sufficient information.
